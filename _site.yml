@@ -30,6 +30,8 @@ navbar:
           href: EB.html 
         - text: "Sebastián Suñer Sánchez"
           href: SS.html
+    - text: "Resources"
+      href: Resources.html
     - text: "Publications"
       href: Publications.html 
     - text: "News"
