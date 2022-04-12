@@ -1,0 +1,49 @@
+---
+title: "Eduardo Aguilar B."
+description: |
+  Graduate Student Researcher
+  
+  Contact: eduardo.aguilarbejarano@ucr.ac.cr
+
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+![](edu.png)
+**BIO**
+
+Eduardo is currently finishing his Bachelor's in Chemistry. His interests are drug design and computational tools for research in chemistry. Aside from his chemistry undergraduate curriculum, he has undertaken courses on biochemistry, bio-inorganic chemistry and computational tools for physical-chemistry from the masters programme. Also, he has undertaken specialized courses on scientific computation (Python and R)
+
+Eduardo is enrolled in the CBio3 research proyects:
+
+1) *Beyond the Octanol/Water Partition System: Machine Learning Methods to Determine the Toluene/Water Partition Coefficient as an Efficient Lipophilic Descriptor*: calculation of molecular descriptors, cleaning and revision of databases, development of a multiple linear model for prediction of the water partition coefficient /toluene. Achievements: The generated model has had a better predictive power than the currently used Abraham method.
+
+2) *Cheminformatic and Quantum Mechanics Approaches for Quantitative Prediction of Tautomerism in Bioactive Molecules*: Database search, database cleaning and revision, calculation of molecular descriptors, multiple linear model development for prediction of the tautomeric equilibrium constant. Achievements: The model obtained has had a predictive power comparable to much more computationally expensive methods (DFT or neural networks).
+
+Non-academic interests: music and sports. Eduardo plays guitar and bass and knows a little about music theory and piano. He does CrossFit and has competed a few times.
+
+**PRIZES AND AWARDS**
+
+1) Universidad Nacional de Colombia, November 2021
+*Winner of the University Olympics of Organic Chemistry, organized by
+the National University of Colombia, Bogotá*
+
+2) Rice University, October 2021
+*Accepted at the Gulf Coast Undergraduate Research Symposium held in
+Rice University in Houston, Texas,* for the presentation of the research
+'Cheminformatic and Quantum Mechanics Approaches for Quantitative
+Prediction of Tautomerism in Bioactive Molecules' of the CBIO3 Group.
+Also, received financial aid for the travel spends from Rice University.
+
+3) Academic Excellence Scholarship.
+Universidad de Costa Rica, 2019-Present.
+*Scholarship for a year given to students with Average Overall Score of
+9/10 or more in the year before.*
+
+4) Jorge Debravo Scholarship.
+Universidad de Costa Rica, 2018.
+*Scholarship for a year given to students that participated in a relevant
+national event the year before. The scholarship was given to me for my
+participation in the Physics Olympiad, where I won a gold medal.*

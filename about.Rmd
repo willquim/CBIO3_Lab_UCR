@@ -1,0 +1,10 @@
+---
+title: "Cbio3 Research Laboratory"
+description: |
+  The Computational Biophysics, Biology and Bioinformatics Group is based on The School of Chemistry at The University of Costa Rica
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

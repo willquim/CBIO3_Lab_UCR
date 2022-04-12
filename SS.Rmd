@@ -1,0 +1,26 @@
+---
+title: "Sebastián Suñer Sánchez"
+description: |
+  Ungraduate Student Researcher 
+
+output: distill::distill_article
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**BIO**
+
+Active undergraduate student of chemistry degree, in the last semester of the second year. Flexible and with a high interest in learning, acquiring experience, and taking part in research projects. Sebastian have a desire to continue his education with a PhD overseas in order to be able to work as a researcher in academia.
+
+**PRIZES AND AWARDS**
+
+1) Sixth highest grade on the admission exam of the University of Costa Rica in 2019.
+
+2) Gold medal in the category A of the XIII Costarican Biological Sciences Olympiad in 2019.
+
+3) Silver medal in the advanced category of the XIX Costarican Chemistry Olympiad in 2019.
+
+4) Bronze medal in the III Centroamerican and Caribbean Biology Olympiad in 2019.
+
+5) Honorific mention in the intermediate category of the XVIII Costarican Chemistry Olympiad in 2018.
