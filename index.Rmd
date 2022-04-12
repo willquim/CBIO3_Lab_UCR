@@ -9,6 +9,8 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = FALSE)
 
 ```
+```{r layout="l-page"}
+knitr::include_graphics("web6.png")
+```
 
-![](web6.png){weight=900}
 
