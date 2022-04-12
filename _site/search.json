@@ -37,8 +37,8 @@
       "title": "CBIO3 Group",
       "description": "Welcome to the Computational Biophysics, Biology and Bioinformatics Group\n",
       "author": [],
-      "contents": "\n\n\n\n\n\n\n",
-      "last_modified": "2022-04-12T01:22:45-06:00"
+      "contents": "\n\n#{r layout=\"l-screen\"} #knitr::include_graphics(\"web6.png\") #\n\n\n\n",
+      "last_modified": "2022-04-12T01:37:39-06:00"
     },
     {
       "path": "JZ.html",
