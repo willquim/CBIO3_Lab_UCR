@@ -58,7 +58,7 @@ toxicity).
 **Experimental**
 </span>
 
-![](exp.jpg)
+![](exp.png)
 *Drug Design* 
 
 Potentiometric and Shake-flask methods to determine the
