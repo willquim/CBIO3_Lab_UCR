@@ -2,6 +2,7 @@
 title: "Sebastián Suñer Sánchez"
 description: |
   Ungraduate Student Researcher 
+  
   Contact: sebastian.suner@ucr.ac.cr
 
 output: distill::distill_article
