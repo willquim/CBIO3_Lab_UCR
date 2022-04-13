@@ -8,13 +8,14 @@ output: distill::distill_article
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
 1) Our Computer Lab with all the necessary software to carry out research
 
 ```{r layout="l-body"}
 knitr::include_graphics("lab.jpg")
 ```
 
-2)Thanks to the projects in collaboration with Dr. Javier Luque (UB), Dr. Antonio Viayna (UB), Dr. Javier Vázquez (Pharmacelera Inc.)  Dr. Cales Curutchet (UB) <http://www.ub.edu/cbcg/index.php>, we have available the use of HPC resources from *Consorci de Serveis Universitaris de Catalunya, CSUC*
+2) Thanks to the projects in collaboration with Dr. Javier Luque (UB), Dr. Antonio Viayna (UB), Dr. Javier Vázquez (Pharmacelera Inc.)  Dr. Cales Curutchet (UB) <http://www.ub.edu/cbcg/index.php>, we have available the use of HPC resources from *Consorci de Serveis Universitaris de Catalunya, CSUC*
 
 ```{r layout="l-body"}
 knitr::include_graphics("csuc.png")
@@ -31,7 +32,7 @@ knitr::include_graphics("cicima.png")
 4) We also have the resources of the National High Technology Center, specifically, Advanced Computing Lab (CNCA).For more details:
  <https://kabre.cenat.ac.cr/>
  
- ```{r layout="l-body"}
+```{r layout="l-body"}
 knitr::include_graphics("kabre.png")
 ```
  
