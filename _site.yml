@@ -42,6 +42,8 @@ navbar:
       menu:
        - text: "2022 May Jose"
          href: 2022_May_Jose.html
+       - text: "2022 May Eduardo"
+         href: 2022_May_Edu.html
     - text: "About"
       href: about.html
 output: distill::distill_article
