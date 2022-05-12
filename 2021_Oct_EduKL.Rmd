@@ -1,0 +1,32 @@
+---
+title: "2021 Oct: Eduardo y Kenneth"
+description: |
+  Eduardo and Kenneth presented their research work at the 2021 Golf Coast Undergraduate Research Symposium at Rice University. Excellent work!
+
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+The two members of CBIO3 at the event
+
+```{r layout="l-body"}
+knitr::include_graphics("2021_Rice.jpg")
+```
+Kenneth during his presentation
+
+```{r layout="l-body"}
+knitr::include_graphics("2021_Rice_KL.jpg")
+```
+Eduardo during his presentation
+
+```{r layout="l-body"}
+knitr::include_graphics("2021_Rice_Edu.jpg")
+```
+
+
+
+
+
+
