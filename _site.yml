@@ -39,7 +39,9 @@ navbar:
         - text: "B.Sc Allan J. Mora Abarca"
           href: AMA.html
     - text: "News"
-      href: News.html 
+      menu:
+      - text: "2022 May Jose"
+          href: 2022_may_jose.html
     - text: "About"
       href: about.html
 output: distill::distill_article

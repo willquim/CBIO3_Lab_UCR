@@ -1,0 +1,17 @@
+---
+title: "2022 May Jose"
+description: |
+  Jose taught a class in the Bioorganica course at UCR
+
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](2022_may_jose.jpg)
+
+
+
+
