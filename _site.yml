@@ -40,7 +40,7 @@ navbar:
           href: AMA.html
     - text: "News"
       menu:
-      - text: "2021 Oct Kenneth y Eduardo"
+       - text: "2021 Oct Kenneth y Eduardo"
          href: 2021_Oct_EduKL.html
        - text: "2022 May Jose"
          href: 2022_May_Jose.html
