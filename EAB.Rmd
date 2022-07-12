@@ -1,5 +1,5 @@
 ---
-title: "Eduardo Aguilar B."
+title: "B.Sc Eduardo Aguilar B."
 description: |
   Graduate Student Researcher
   
