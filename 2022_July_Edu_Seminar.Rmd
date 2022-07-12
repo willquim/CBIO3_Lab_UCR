@@ -1,0 +1,18 @@
+---
+title: "2022 June Seminar: Eduardo"
+description: |
+  Eduardo presented his undergraduate seminar with great success!
+
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+![](2022_July_Seminar_Edu.jpg)
+
+
+
+
+
+

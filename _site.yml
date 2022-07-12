@@ -48,6 +48,10 @@ navbar:
          href: 2022_May_Jose.html
        - text: "2022 May Eduardo"
          href: 2022_May_Edu.html
+       - text: "2022 June Thesis: Kenneth"
+         href: 2022_June_KLP_Thesis.html
+       - text: "2022 July Seminar: Eduardo"
+         href: 2022_July_Edu_Seminar.html
        - text: "2022 July PostDoc Position"
          href: 2022_July_Postdoctoral.html
        

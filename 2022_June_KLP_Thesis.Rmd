@@ -1,0 +1,14 @@
+---
+title: "2022 June Thesis: Kenneth"
+description: |
+  Kenneth presented his undergraduate thesis obtaining an honorable mention.
+  Congratulations Kenneth!!!
+
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+![](2022_June_KLP.jpg)
+
