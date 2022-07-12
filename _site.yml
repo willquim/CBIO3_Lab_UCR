@@ -40,12 +40,15 @@ navbar:
           href: AMA.html
     - text: "News"
       menu:
+      - text: "2021 Oct Kenneth y Eduardo"
+         href: 2021_Oct_EduKL.html
        - text: "2022 May Jose"
          href: 2022_May_Jose.html
        - text: "2022 May Eduardo"
          href: 2022_May_Edu.html
-       - text: "2021 Oct Kenneth y Eduardo"
-         href: 2021_Oct_EduKL.html
+       - text: "2022 July PostDoc Position"
+         href: 2022_July_Postdoctoral.html
+       
     - text: "About"
       href: about.html
 output: distill::distill_article
