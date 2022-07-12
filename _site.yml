@@ -16,8 +16,8 @@ navbar:
       menu:
         - text: "Prof. William J. Zamora R."
           href: WZR.html
-        - text: "Prof. Silvana De Souza P."
-          href: SSP.html
+        #- text: "Prof. Silvana De Souza P."
+          #href: SSP.html
         - text: "B.Sc. Kenneth López-Pérez"
           href: KLP.html   
         - text: "Eduardo Aguilar Bejarano"
