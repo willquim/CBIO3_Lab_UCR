@@ -1,0 +1,31 @@
+---
+title: "2021 November: Postdoctoral Position"
+description: |
+ Post-doc Position in Computational Bilogy, CBio3 Group, University of Costa Rica.
+
+  The Computational Biophysics, Biology and Bioinformatics Group (CBio3 Group) 
+  invites qualified and highly motivated candidates to apply for postdoctoral position for the research project  *"Antimicrobial Peptides as Future Antibiotics: Physicochemical Characterization by Methods Computational of its Structures Bioactive Determined by Resonance Nuclear Magnetics in Environments of Membrane"*
+
+  The candidate will join a multi-disciplinary international team of collaborators focusing on the study of Antimicrobial Peptides. The profile of the Postdoctoral Researcher we are seeking a scientist with:
+    
+  1- A solid background in computational chemistry: Quantum Mechanism Solvation Models, Hybrid methods QM/MM and QM/MMpol; Continuous Polarizable (QM/PCM) and MM/GBSA models, especially for the description of lipophilicity in biomolecular systems. 
+
+  2- A solid background in computational methods: Molecular Dynamics, Molecular Docking (protein-ligand), Homology Modeling, Alphafold2 and Machine Learning techniques,Command of shell scripting, python programming and the use of high-performance computing.
+  
+  3- Solid understanding of Molecular Recognition, demonstrated experience in the use of Molecular Dynamics and has a strong interest in Drug Discovery.
+
+  The contract will be signed for at least one year, with possibilities for further extensions.
+
+  Starting date: February 2022.
+
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+
+

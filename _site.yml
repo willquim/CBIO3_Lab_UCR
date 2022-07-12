@@ -42,6 +42,8 @@ navbar:
       menu:
        - text: "2021 Oct Kenneth y Eduardo"
          href: 2021_Oct_EduKL.html
+       - text: "2021 Nov PostDoc Position"
+         href: 2021_November_Postdoctoral.html
        - text: "2022 May Jose"
          href: 2022_May_Jose.html
        - text: "2022 May Eduardo"
