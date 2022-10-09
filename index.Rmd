@@ -1,5 +1,5 @@
 ---
-title: "CBIO3 Group"
+title: "CBIO3 Laboratory"
 description: |
   Welcome to the Computational Biophysics, Biology and Bioinformatics Group
 site: distill::distill_website
