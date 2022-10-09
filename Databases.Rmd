@@ -9,7 +9,7 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 <span style="color: blue;">
-**1. NAtural PROducts REpository - Costa Rica**
+**1. NAtural PROducts REpository - Costa Rica (available soon)**
 </span>
 
 ![](naprore.png)
@@ -27,5 +27,8 @@ Within the aims of this repository:
 
 The database will be part of the Latin American Natural Product Database (LANaPD)
 ![](lanapd.png)
+<span style="color: blue;">
+**2. Distribution Coefficients Databases (available soon)**
+</span>
 
-
+Databases of partition and distribution coefficients determined experimentally. 
