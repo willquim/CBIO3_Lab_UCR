@@ -16,11 +16,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Eduardo is currently finishing his Bachelor's in Chemistry. His interests are drug design and computational tools for research in chemistry. Aside from his chemistry undergraduate curriculum, he has undertaken courses on biochemistry, bio-inorganic chemistry and computational tools for physical-chemistry from the masters programme. Also, he has undertaken specialized courses on scientific computation (Python and R)
 
-Eduardo is enrolled in the CBio3 research proyects:
+Eduardo is enrolled in the CBio3 research proyect:
 
-1) *Beyond the Octanol/Water Partition System: Machine Learning Methods to Determine the Toluene/Water Partition Coefficient as an Efficient Lipophilic Descriptor*: calculation of molecular descriptors, cleaning and revision of databases, development of a multiple linear model for prediction of the water partition coefficient /toluene. Achievements: The generated model has had a better predictive power than the currently used Abraham method.
+*Beyond the Octanol/Water Partition System: Machine Learning Methods to Determine the Toluene/Water Partition Coefficient as an Efficient Lipophilic Descriptor*: calculation of molecular descriptors, cleaning and revision of databases, development of a multiple linear model for prediction of the water partition coefficient /toluene. Achievements: The generated model has had a better predictive power than the currently used Abraham method.
 
-2) *Cheminformatic and Quantum Mechanics Approaches for Quantitative Prediction of Tautomerism in Bioactive Molecules*: Database search, database cleaning and revision, calculation of molecular descriptors, multiple linear model development for prediction of the tautomeric equilibrium constant. Achievements: The model obtained has had a predictive power comparable to much more computationally expensive methods (DFT or neural networks).
 
 Non-academic interests: music and sports. Eduardo plays guitar and bass and knows a little about music theory and piano. He does CrossFit and has competed a few times.
 
