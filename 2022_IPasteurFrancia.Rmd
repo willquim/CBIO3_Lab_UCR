@@ -1,0 +1,17 @@
+---
+title: "Institut Pasteur, Francia"
+description: |
+  Members of our group have been selected to present our research
+
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+![](ipasteur.png)
+
+
+
+
+
