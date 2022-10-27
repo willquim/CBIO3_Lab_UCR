@@ -58,7 +58,6 @@ navbar:
          href: 2022_IPasteurFrancia.html
        #- text: "2022 July PostDoc Position"
          #href: 2022_July_Postdoctoral.html
-       
     - text: "About"
       href: about.html
 output: distill::distill_article
