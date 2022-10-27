@@ -1,0 +1,15 @@
+---
+title: "Paulina's Research Paper has tbeen accepted"
+description: |
+ The research will be presented at 2022 4th IEEE International Conference on BioInspired Processing (BIP 2022). 
+
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+![](bip2022.png)
+
+
+

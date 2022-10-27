@@ -60,6 +60,8 @@ navbar:
          href: 2022_Birthday_WZR.html 
        - text: "2022 October Symposium: INDICASAT,Panamá"
          href: 2022_Panama.html
+       - text: "2022 October Paper: Paulina"
+         href: 2022_BIP_Paper.html
        - text: "2022 October Symposium: I.Pasteur,Francia"
          href: 2022_IPasteurFrancia.html
        #- text: "2022 July PostDoc Position"
