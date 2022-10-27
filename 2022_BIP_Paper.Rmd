@@ -1,5 +1,5 @@
 ---
-title: "Paulina's Research Paper has tbeen accepted"
+title: "Paulina's Research Paper has been accepted"
 description: |
  The research will be presented at 2022 4th IEEE International Conference on BioInspired Processing (BIP 2022). 
 
