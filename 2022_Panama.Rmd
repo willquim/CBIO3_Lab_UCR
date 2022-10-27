@@ -1,0 +1,15 @@
+---
+title: "B3 Symposium in Panamá"
+description: |
+  Dr. William J. Zamora gave a keynote talk in the B3 Symposium about Computational Biosciencies in Latin America: Challenges and Opportunities
+
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+![](PANAMA.png)
+
+
+

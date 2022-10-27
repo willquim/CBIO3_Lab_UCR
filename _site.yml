@@ -54,6 +54,12 @@ navbar:
          href: 2022_June_KLP_Thesis.html
        - text: "2022 July Seminar: Eduardo"
          href: 2022_July_Edu_Seminar.html
+       - text: "2022 September: Semana C"
+         href: 2022_SemanaC.html 
+       - text: "2022 October: Birthday"
+         href: 2022_Birthday_WZR.html 
+       - text: "2022 October Symposium: INDICASAT,Panamá"
+         href: 2022_Panama.html
        - text: "2022 October Symposium: I.Pasteur,Francia"
          href: 2022_IPasteurFrancia.html
        #- text: "2022 July PostDoc Position"

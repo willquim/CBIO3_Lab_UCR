@@ -1,0 +1,14 @@
+---
+title: "Esteban, Sebastian y Eduardo presented their research in the Semana C"
+description: |
+  Research about the effect of ionic partition and a new model for toluene-water partition system
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+![](semanaC_esteban_sebas.png)
+
+
+
