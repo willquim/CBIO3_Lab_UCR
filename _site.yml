@@ -34,6 +34,10 @@ navbar:
           href: PM.html
         - text: "Adriana García Schmidt"
           href: AGS.html 
+        - text: "Daniel Mora Romero"
+          href: DM.html 
+        - text: "Daniel Acuña Jiménez"
+          href: DA.html 
         - text: "Former Members"
           href: Former.html
         - text: "Visitors"

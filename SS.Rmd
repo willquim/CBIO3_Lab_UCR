@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ![](sebas.jpeg)
 **BIO**
 
-Active third year student of a bachelor’s degree in chemistry in the UCR. Currently, he is interested in computational chemistry, biochemistry, molecular biology and inorganic chemistry; but outside of chemistry he enjoys math and biology. He has undertaken courses on scientific computation in Python. It is his goal to continue his education with a Master’s and/or PhD overseas. As his pastimes, Sebastian likes to travel with his family, reading, watching anime and play videogames.
+Active third year student of a bachelor’s degree in chemistry at UCR. Currently, he is interested in computational chemistry, biochemistry, molecular biology and inorganic chemistry; but outside of chemistry he enjoys math and biology. He has undertaken courses on scientific computation in Python. It is his goal to continue his education with a Master’s and/or PhD overseas. As his pastimes, Sebastian likes to travel with his family, reading, watching anime and play videogames.
 
 **PRIZES AND AWARDS**
 

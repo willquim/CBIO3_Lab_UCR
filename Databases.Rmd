@@ -8,8 +8,8 @@ output: distill::distill_article
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-<span style="color: blue;">
-**1. NAtural PROducts REpository - Costa Rica (available soon)**
+<span style="color: #104E8B;">
+**1. NAtural PROducts REpository - Costa Rica**
 </span>
 
 ![](naprore.png)
@@ -23,11 +23,13 @@ Within the aims of this repository:
 
 2. Be part of and contribute to the **Latin American Natural Product Database (LANaPD)**
 
-**NAPRORE-CR** was designed and developed in collaboration with the research group of Dr. Jose Medina-Franco from the UNAM. We will shortly release more details about the database in a publication.
+**<span style="color: blue;">[NAPRORE-CR](https://doi.org/10.5281/zenodo.7858102)**</span> is being designed and developed in collaboration with the research group of Dr. Jose Medina-Franco at UNAM. 
 
-The database will be part of the Latin American Natural Product Database (LANaPD)
+Cite as Zamora, William J., Pinheiro, Silvana, & Acuña, Daniel. **(2023)**. NAPRORE-CR (NAtural PROducts REpository - Costa Rica) (Version v2) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7858102
+
+The database will be part of the Latin American Natural Product Database (<span style="color: blue;"> **[LANaPD](https://www.future-science.com/doi/10.2144/fsoa-2020-0068)**</span>)
 ![](lanapd.png)
-<span style="color: blue;">
+<span style="color: #104E8B;">
 **2. Distribution Coefficients Databases (available soon)**
 </span>
 

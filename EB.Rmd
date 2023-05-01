@@ -10,7 +10,7 @@ output: distill::distill_article
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-![](eb.png)
+![](eb2.png)
 **BIO**
 
 Esteban is an Associate Professor at School of Chemistry and has been part of the CBIO3 Group since the beginning of 2021.
@@ -29,6 +29,6 @@ In addition to studying: Esteban likes to do any kind of sport. He mentions that
 
 1) During 2020 and 2021, Esteban participated as a teaching assistant in introductory laboratory courses for Chemistry students. The pandemic suddenly forced them to plan remote activities. Their initial results are reported in the Journal of Chemical Education: <https://dx.doi.org/10.1021/acs.jchemed.0c00803>.
 
-2) Onto the next semenster, one of the experiments they designed was presented as a poster during the virtual conference of the ACS Spring National Meeting 2021 and at the 44th Senior Technical Meeting of ACS Puerto Rico: <https://doi.org/10.1021/scimeetings.1c00747>. It consisted on a household titration of vinegar with sodium bicarbonate with minimal equipment. Semi-quantitative results can be achieved, as well as tons of valuable educational goals for Chemistry freshmen.
+2) Onto the next semester, one of the experiments they designed was presented as a poster during the virtual conference of the ACS Spring National Meeting 2021 and at the 44th Senior Technical Meeting of ACS Puerto Rico: <https://doi.org/10.1021/scimeetings.1c00747>. It consisted on a household titration of vinegar with sodium bicarbonate with minimal equipment. Semi-quantitative results can be achieved, as well as tons of valuable educational goals for Chemistry freshmen.
 
 3) During the second half of 2021, Esteban participated with my colleagues David Pacheco and Ariel Fernández in the Entrepreneurship and Innovation Fair (FEDI) of the School of Chemistry of the University of Costa Rica. We created the company PROJECT SAFE. During the semester, we dedicated ourselves to designing our POLARIS product. This prototype facilitates the detection of adulterated beverages on the spot inside bars or parties. The prototypes can be found in this website: <https://view.genial.ly/616e1a688a57760d68f41f4d/presentation-fedi-2021?fbclid=IwAR0iVl91f_3moIbDhp9da5uwn_RylpROkV3lHwARcXsn8ZZTbKoyjqGm8qI>
