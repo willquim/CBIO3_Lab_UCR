@@ -1,0 +1,23 @@
+---
+title: "M.Sc. Jannette Wen Fang Wu Wu "
+description: |
+  Researcher
+  
+  Contact: jannette.wu@ucr.ac.cr 
+  
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+![](jean.png)
+**BIO**
+
+M.Sc. Jannette Wen Fang Wu Wu graduated from Food Engineering in the University of Costa Rica, later achieved a Master's  degree in Science from the same institution. Her strong work has focused on main biotechnological processes and food microbiology.
+
+Currently she’s pursuing her PhD at the University of Costa Rica,  focused on studying lactic acid bacteria and their potential use as antagonistic microorganisms  for industrial and health applications, as well as for the production of antimicrobial peptides.
+
+She currently works as lecturer for the Food Technology Department of the University of Costa Rica, and for the Industrial Chemical Engineering Department of the Latin American University of Science and Technology (ULACIT). She also works as a consultant for food industries. 
+
+
