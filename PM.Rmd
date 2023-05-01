@@ -1,0 +1,18 @@
+---
+title: "Paulina Matamoros"
+description: |
+  Ungraduate Student Researcher 
+  
+  Contact: PAULINA.MATAMOROSPARKER@ucr.ac.cr
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+![](pau2.png)
+**BIO**
+
+Paulina is studying Chemical Engineering at the UCR. She currently collaborates on topics related to the prediction of physicochemical properties of bile acids, non-standard residues of amino acids and in projects related to antimicrobial peptides.
+
+

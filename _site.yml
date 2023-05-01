@@ -20,18 +20,20 @@ navbar:
           href: SSP.html
         - text: "Prof. Jannette Wen Fang Wu Wu"
           href: JWW.html
+        - text: "Prof. Esteban Bertsch Aguilar"
+          href: EB.html 
         #- text: "B.Sc. Kenneth López-Pérez"
           #href: KLP.html   
         #- text: "B.Sc. Eduardo Aguilar Bejarano"
           #href: EAB.html   
-        - text: "Adriana García Schmidt"
-          href: AGS.html  
         - text: "Jose Rodríguez Zúñiga"
           href: JZ.html  
-        - text: "Esteban Bertsch Aguilar"
-          href: EB.html 
         - text: "Sebastián Suñer Sánchez"
           href: SS.html
+        - text: "Paulina Matamoros Parker"
+          href: PM.html
+        - text: "Adriana García Schmidt"
+          href: AGS.html 
         - text: "Former Members"
           href: Former.html
         - text: "Visitors"

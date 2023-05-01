@@ -1,7 +1,7 @@
 ---
 title: "Esteban Bertsch Aguilar"
 description: |
-  Ungraduate Student Researcher
+  Postgraduate Researcher
   
   Contact: ESTEBAN.BERTSCH@ucr.ac.cr
 output: distill::distill_article
@@ -13,13 +13,13 @@ knitr::opts_chunk$set(echo = FALSE)
 ![](eb.png)
 **BIO**
 
-Esteban has been part of the CBIO3 Group since the beginning of 2021. His current research project is carried out with his collegues Sebastián Suñer and Kenneth López, under the guidance of Dr. William Zamora.
+Esteban is an Associate Professor at School of Chemistry and has been part of the CBIO3 Group since the beginning of 2021.
+
+Hi is a M. Sc student working in the elaboration of biological lipophilicity scale for carbohydrate-based molecules under the supervision of Prof. William Zamora
 
 Their current project consists of investigating the influence of ion formation on the lipophilicity of some small organic molecules. In short, organic molecules that have acidic (carboxylates, amides, etc.) or basic (amines, phosphines, pyridines, etc.) functional groups will exist in an equilibrium between their neutral species and their ionic form. So, they set out to answer whether considering these chemical equilibriums improve lipophilicity prediction calculations. In addition, they dedicate to answer questions such as: Do these considerations work better for acids? Or for bases? What happens if a molecule has both acidic and basic groups at the same time? Are the predictions still good at different pHs?, among other.
 
 In addition, he also collaborates in projects dedicated to the application of Machine Learning to determine new lipophilicity descriptors of small molecules in collaboration with the University of Barcelona and the Pharmaceutical Development and Technology Company | Pion from the UK.
-
-Currently, Esteban is doing a professional internship at the Electrochemical and Chemical Energy Research Center at the University of Costa Rica (CELEQ).
 
 In addition to studying: Esteban likes to do any kind of sport. He mentions that he is mediocre good at mixed martial arts, soccer, basketball, tennis, volleyball, among others. Esteban really like to dance, hang out with his girlfriend, go out with friends, play videogames, watch anime, YouTube, Twitch, etc.
 
