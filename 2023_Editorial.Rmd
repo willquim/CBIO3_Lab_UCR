@@ -1,15 +1,17 @@
 ---
-title: "Full Professor"
+title: "Editorial Board"
 description: |
- Prof. William Zamora has been promoted as full professor, the highest teaching category at UCR. Congratulations!!!
+ Prof. William Zamora has been appointed as an Early Career Researcher Reviewer in the **<span style="color: blue;">[Protein Science Journal of Wiley](https://onlinelibrary.wiley.com/journal/1469896x)**</span>, positioning the University of Costa Rica as the only Latin American University in the editorial body
+ 
+ Also, in the same month Prof. Zamora has been appointed as Guest Editor Reviewer in the **<span style="color: blue;">[Frontiers in Molecular Biosciences ](https://www.frontiersin.org/journals/molecular-biosciences)**</span>
  
 output: distill::distill_article
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-![](catefratic.png)
-
+![](ps.png)
+![](fmb.png)
 
 
 

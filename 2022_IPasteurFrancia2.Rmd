@@ -3,7 +3,7 @@ title: "Institut Pasteur, Francia"
 description: |
  Dr. Zamora gave a invited talk about Antimicrobial Peptides at Institute Pasteur, France. 
  
- Very importante collaborations came up after the event!!!
+ Very important collaborations came up after the event!!!
 
 output: distill::distill_article
 ---

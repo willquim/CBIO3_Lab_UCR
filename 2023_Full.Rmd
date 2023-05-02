@@ -1,7 +1,7 @@
 ---
-title: "Our work is used by University of Cambridge"
+title: "Full Professor"
 description: |
- Our **<span style="color: blue;">[Lipophilicity Scale of Amino Acids](https://doi.org/10.1021/acs.jpclett.9b00028)**</span> has been implemented in the new version of **<span style="color: blue;">[Cambridge Solvation Tool](https://www-cohsoftware.ch.cam.ac.uk/)**</span> for computing pH-dependent solubility of peptides and proteins.
+  Professor William has been promoted as full professor, the highest teaching category at UCR. Congratulations!!!
  
 output: distill::distill_article
 ---
@@ -9,12 +9,7 @@ output: distill::distill_article
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
-Distill is a publication format for scientific and technical writing, native to the web. 
-
-Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
-
-
+![](catefratic.png)
 
 
 
