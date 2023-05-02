@@ -29,8 +29,13 @@ Cite as Zamora, William J., Pinheiro, Silvana, & Acuña, Daniel. **(2023)**. NAP
 
 The database will be part of the Latin American Natural Product Database (<span style="color: blue;"> **[LANaPD](https://www.future-science.com/doi/10.2144/fsoa-2020-0068)**</span>)
 ![](lanapd.png)
+
 <span style="color: #104E8B;">
-**2. Distribution Coefficients Databases (available soon)**
+**2. Toluene/Water Partition Coefficient Database**
 </span>
 
-Databases of partition and distribution coefficients determined experimentally. 
+In recent years the use of partition systems other than the widely used biphasic n-octanol/water has received increased attention to gain insight into the molecular features that dictate the lipophilicity of compounds. Thus, the difference between n-octanol/water and toluene/water partition coefficients has proven to be a valuable descriptor to study the propensity of molecules to form intramolecular hydrogen bonds and exhibit chameleon-like properties that modulate solubility and permeability. In this context, **<span style="color: blue;">[Toluene Database](https://doi.org/10.5281/zenodo.7884699)</span>** is a dataset of 252 unique molecules with experimentally determined toluene/water partition coefficient is deposited here. 
+
+Cite as William J. Zamora, Silvana Pinheiro, Antonio Viayna, Carles Curutchet, Laia Bisbal, Rebeca Ruiz, Clara Ràfols, & F. Javier Luque. (2023). Toluene/Water Partition Coefficient Database (Version v1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7884699
+![](tol.png)
+
