@@ -10,7 +10,7 @@ output: distill::distill_article
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
+![](dm.png)
 **BIO**
 
 Daniel is a last year student of Chemistry. In the group, Daniel is in charge of docking experiments for ligand-protein and protein-protein interactions.

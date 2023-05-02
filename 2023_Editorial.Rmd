@@ -1,0 +1,15 @@
+---
+title: "Full Professor"
+description: |
+ Prof. William Zamora has been promoted as full professor, the highest teaching category at UCR. Congratulations!!!
+ 
+output: distill::distill_article
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+![](catefratic.png)
+
+
+
+

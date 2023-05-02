@@ -1,0 +1,12 @@
+---
+title: "Our work is used by University of Cambridge"
+description: |
+ Our **<span style="color: blue;">[Lipophilicity Scale of Amino Acids](https://doi.org/10.1021/acs.jpclett.9b00028)**</span> has been implemented in the new version of **<span style="color: blue;">[Cambridge Solvation Tool](https://www-cohsoftware.ch.cam.ac.uk/)**</span> for computing pH-dependent solubility of peptides and proteins.
+ 
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+![](cambridge.png)

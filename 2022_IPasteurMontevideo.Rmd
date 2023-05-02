@@ -1,0 +1,19 @@
+---
+title: "Institut Pasteur, Montevideo-Uruguay"
+description: |
+ Dr. Zamora was selected by The Wellcome Center for Anti-Infectives Research (WCAIR) - University of Dundee (UK), Institut Pasteur Montevideo and
+ and University of the Republic, Uruguay for attending the Overseas course Practical Aspects of Drug Discovery: At the Interface of Biology, Chemistry and    Pharmacology.
+ 
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+![](uruguay2.png)
+
+![](uruguay.png)
+
+
+
+
