@@ -12,6 +12,13 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ```{r layout="l-body"}
+knitr::include_graphics("ails.png")
+```
+
+25. Miranda-Salas, J., Peña-Varas, C., Martínez, I. V., Olmedo, D. A., **Zamora, W. J.**, Chávez-Fumagalli, M. A., Azevedo, D. Q., Castilho, R. O., Maltarollo, V. G., Ramírez, D., & Medina-Franco, J. L. **(2023)**. Trends and challenges in chemoinformatics research in Latin America. Artificial Intelligence in the Life Sciences, 100077.
+<https://doi.org/10.1016/j.ailsci.2023.100077>
+
+```{r layout="l-body"}
 knitr::include_graphics("chemrxiv.png")
 ```
 
