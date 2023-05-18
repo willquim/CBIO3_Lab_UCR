@@ -13,7 +13,8 @@ knitr::opts_chunk$set(echo = FALSE)
 <span style="color: blue;">
 **Design of New Bioinspired Superantibiotics**
 </span>
-![](amps_irta.png)
+
+![](amps_irta.png){ width=125% }
 The introduction of antibiotics as a means to treat and control infectious diseases marked a turning point in the evolution of modern medicine. However, misuse of these antimicrobial agents has caused the development of widespread antibiotic resistance (ABR) in organisms ranging from spoilage microorganisms to pathogens. ABR represents a global public health threat that must be faced, otherwise it will have disastrous consequences for global public health. ABR bacterial infections killed 1.27 million people in the world in 2019, Africa being the most affected continent. Thus, if this growth continues, it is expected by 2050 ABR-related deaths will exceed those due to cancer. 
 
 In collaboration with the **<span style="color: blue;">[IRTA](https://www.irta.cat/en/)</span>** - Institute of Agrifood Research and Technology (Dra. Elena García and Dra. Ana Aris), we are design new bioinspired superantibiotics based on personalized host defense peptides (HDPs) that have higher potency, selectivity, and less toxicity than existing ones to prevent and treat infectious diseases caused by multiresistance or extensive drug resistance (MDR/XDR). Our research project aims recombinantly produce the best-tailored HDPs-based superantibiotics selected by an artificial intelligence algorithm based on a transdisciplinary approach that includes a broad screening antimicrobial assay and experimental and in-silico physicochemical characterization of the HDPs.
